@@ -59,6 +59,11 @@ Here are some ideas to get you started:
 
 ## Projects
 
+llamaindex [link](https://github.com/HueyVault/llamaindex_test)
+
+```
+```
+
 데이터 수집 [link](https://github.com/jwyzfe/FirstProject)
 
 ```
