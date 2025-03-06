@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ```
 ```
 
-챗봇 [link]()
+챗봇 [link](https://github.com/HueyVault/ollama-deep-researcher)
 
 ```
 ```
